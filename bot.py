@@ -10,7 +10,6 @@ from technicals import Technicals
 from defs import NONE, BUY, SELL, SECURE_HEADER
 from trade_manager import TradeManager
 
-
 GRANULARITY = "M1"
 SLEEP = 10.0
 
